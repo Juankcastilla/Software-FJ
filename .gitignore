@@ -1,0 +1,14 @@
+
+# Entorno virtual
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Configuraciones locales de VS Code
+.vscode/
+
+# Archivos de registro generados
+logs/*.log
+!logs/.gitkeep
